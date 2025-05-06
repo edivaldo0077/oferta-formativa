@@ -1,0 +1,23 @@
+{
+    "name": "Oferta Formativa 2024-2025",
+    "short_name": "OfertaFormativa",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#f8f9fa",
+    "theme_color": "#2b2d42",
+    "description": "Aplicação PWA com a oferta formativa da Escola Secundária Abel Salazar para 2024-2025.",
+    "orientation": "portrait",
+    "icons": [
+      {
+        "src": "imagem/ icon1.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "imagem/ icon2.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  
